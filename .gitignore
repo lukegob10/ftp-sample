@@ -15,8 +15,7 @@ Thumbs.db
 .vscode/
 
 # Data outputs
-data/balance_sheet/*.csv
-data/results/*.csv
+
 
 # Logs
 *.log
